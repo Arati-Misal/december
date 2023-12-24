@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 first line
+=======
+ghgjgjj
+ggggggg
+>>>>>>> parent of 54bf139... This is by mistake
